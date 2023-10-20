@@ -1,0 +1,8 @@
+Dash board
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Faircraft%2Bfatalities%2Bdashboard&action=view&mode=dashboard&subView=model0000018b41768c08_00000002
+
+Exploration
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FOnline%2Bedu%2Breview%2Bviz&subView=model0000018b413e0bdc_00000000
+
+Story
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2Faircraft%2Bfatalities%2Bstory&action=view&sceneId=-1&sceneTime=0
